@@ -1,3 +1,5 @@
+Joshua Woo and Logan Lumeta
+
 Our app is designed to track calories of all the foods that the user is eating. It will also track the calories outtake found through exercise. You start by entering your name, age, height, weight, and average weekly exercise. The goal of this app is to help the user track what is a healthy amount of calories per day and give recommendations if their net calories are too high or too low.
 
 Our Figma design can be found here: https://docs.google.com/document/d/1HA5RtkZdjhQNW6IH-0ANBc8EAAq39qBjknzrhRhL_yQ/edit?usp=sharing
